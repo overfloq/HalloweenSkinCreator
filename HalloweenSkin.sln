@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalloweenSkin", "HalloweenSkin\HalloweenSkin.csproj", "{60DB07AB-1761-4C1E-979E-FEE3829EA0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60DB07AB-1761-4C1E-979E-FEE3829EA0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DB07AB-1761-4C1E-979E-FEE3829EA0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DB07AB-1761-4C1E-979E-FEE3829EA0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DB07AB-1761-4C1E-979E-FEE3829EA0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C2B23A-958E-4885-B077-60EDD3546791}
+	EndGlobalSection
+EndGlobal
