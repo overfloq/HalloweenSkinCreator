@@ -9,4 +9,11 @@ It's fast, offline and easy!
 # How to use
 1. Download a pre-compiled copy of the code, or compile it yourself (depends on PastelEx library).
 2. Open command prompt in directory where you have the program downloaded. Adding your skin image will make the process easier.
-3. In command prompt, run command `HalloweenSkinCreator` with a single argument, path or just filename of your skin file. Example is `HalloweenSkinCreator "MySkinPicture.png"`. The program will then automatically create a new picture, `MySkinPicture - Halloween Mask.png` in the example case.
+3. Drag and drop the skin image file into the tool executable. The program will then automatically create a new picture, for example `MySkinPicture - Halloween Mask.png` in the same directory as your original skin you dragged into the executable.
+
+# Command line parameters
+```
+-n   This will disable changing colors and clearing the console. This doesn't
+     affect the preview and it's colors.
+```
+Command line parameters should always be defined after the path of the skin image, so like `HalloweenSkinCreator MySkinPicture.png -n`.
