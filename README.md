@@ -1,3 +1,4 @@
+> A more user-friendly and more advanced skin effects are available with NameMC. I made this to just train my coding skills and demonstrate that it's possible in C# from scratch.
 # Halloween skin creator 🎃
 Wanna add some halloween effect into your minecraft skin? This tool is right for you. You can add a really simple pumpkin mask into your skin.
 
